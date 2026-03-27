@@ -1,0 +1,14 @@
+{
+  "name": "papss-settlement-dashboard",
+  "version": "0.1.0",
+  "description": "Real-time visualization tool for intra-African settlements via the PAPSS network.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
